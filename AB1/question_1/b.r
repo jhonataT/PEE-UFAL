@@ -31,4 +31,6 @@ tabelafreq
 limitesclas
 
 # histogram with added parameters
-hist(freq, col = "orange", labels=classes)
+hist(freq, col = "orange", labels=classes, 
+    ylab="Frequências Relativas", xlab="Frequências Absolutas", main="Histograma (ENEM 2019)"
+)
