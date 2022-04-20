@@ -1,3 +1,5 @@
+library(readxl)
+
 url <- "C:\\Users\\jhona\\OneDrive\\Documents\\R\\ENEM_2019.xlsx"
 
 db <- read_excel(url)
