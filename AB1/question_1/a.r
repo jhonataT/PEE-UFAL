@@ -1,8 +1,3 @@
-# Questão 1 lista 1
-
-
-# install.packages("readxl")
-
 library("readxl")
 
 url <- "C:\\Users\\jhona\\OneDrive\\Documents\\R\\ENEM_2019.xlsx"
